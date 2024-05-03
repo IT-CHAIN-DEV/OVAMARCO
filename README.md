@@ -4,10 +4,10 @@ This repository contains the PDF forms project for Ovamarcom agency.
 
 ## Forms
 
-- [Form 1](link_to_form1.pdf)
-- [Form 2](link_to_form2.pdf)
-- [Form 3](link_to_form3.pdf)
-- [Form 3](link_to_form3.pdf)
+- [TRUST AI](https://github.com/IT-CHAIN-DEV/OVAMARCO/tree/main/OVAMARCOM/TRUST%20AI)
+- [MATAR AI](https://github.com/IT-CHAIN-DEV/OVAMARCO/tree/main/OVAMARCOM/MATAR%20AI)
+- [WTE](https://github.com/IT-CHAIN-DEV/OVAMARCO/tree/main/OVAMARCOM/WTE)
+- [BRANAVERSE](https://github.com/IT-CHAIN-DEV/OVAMARCO/tree/main/OVAMARCOM/BRANAVERSE)
 
 ## Social Media
 
