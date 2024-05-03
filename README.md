@@ -1,8 +1,8 @@
-# Ovamarcom PDF Forms Project
+# Ovamarcom
 
-This repository contains the PDF forms project for Ovamarcom agency.
+Welcome to the Ovamarcom GitHub repository! Here you will find information about our projects and how you can connect with us.
 
-## Forms
+## Projects
 
 - [TRUST AI](https://github.com/IT-CHAIN-DEV/OVAMARCO/tree/main/OVAMARCOM/TRUST%20AI)
 - [MATAR AI](https://github.com/IT-CHAIN-DEV/OVAMARCO/tree/main/OVAMARCOM/MATAR%20AI)
